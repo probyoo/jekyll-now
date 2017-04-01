@@ -4,7 +4,7 @@ tagline: 'I Thought'
 description: 'A Jekyll theme adapted from <a href="http://probyoo.getpoole.com/" target="_blank">probyoo</a>. Made by <a href="http://probyoo.github.io" target="_blank">@probyoo</a>.'
 baseurl: "/probyoo"
 url: http://probyoo.github.io
-logo: '/images/jekyll-logo.png'
+logo: '/public/logo.png'
 
 # Site configurations
 gems:
@@ -53,8 +53,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /images/me.jpg
-  caption: 
+  image: /public/img/me.jpg
+  caption:
 
 # Puglins
 #mathjax: true # whether support mathjax
