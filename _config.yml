@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
+title: probyo
 tagline: 'I Thought'
-description: 'A Jekyll theme adapted from <a href="http://probyoo.getpoole.com/" target="_blank">probyoo</a>. Made by <a href="http://probyoo.github.io" target="_blank">@probyoo</a>.'
-baseurl: "/probyoo"
-url: http://probyoo.github.io
+description:
+baseurl: "/"
+url: https://probyoo.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -25,8 +25,8 @@ version: 1.0.0
 # About/contact
 author:
   name: jeamoon yoo
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: adc256b32a6cca630e1e031b00f8eb77 # md5 hash of your email address
+  description: A passionate <strong>developer</strong>, learning to be a giant.
+  #gravatar: adc256b32a6cca630e1e031b00f8eb77 # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/probyoo
@@ -46,7 +46,7 @@ nav:
   About:
     - '/about/'
   Github Project:
-    - 'http://probyoo.github.io/'
+    - 'https://probyoo.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
